@@ -1,4 +1,4 @@
-package ru_hse_java;
+package ru.hse.java;
 
 import java.util.List;
 import java.util.Objects;
